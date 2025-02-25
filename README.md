@@ -32,7 +32,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#progress">Progress</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -43,9 +43,7 @@
   <img src="images/Screenshot.jpg" alt="Screenshot" width="320" height="620">
 </div>
 
-This project is a chatbot for furniture recommendation using multi-agents. It integrates multiple AI technologies to provide an intelligent and interactive experience for users.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**This project is a chatbot for furniture recommendation using multi-agents. It integrates multiple AI technologies to provide an intelligent and interactive experience for users. The recommendation system works through both text and image inputs, allowing users to describe their preferences or upload images to receive personalized furniture suggestions.**
 
 ### Built With
 [![FastAPI][FastAPI-badge]][FastAPI-url]
@@ -89,7 +87,6 @@ This project is a chatbot for furniture recommendation using multi-agents. It in
 [Azure-badge]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 [Azure-url]: https://azure.microsoft.com/
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -105,8 +102,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MrSa3dola/AR_RAG.git
-   cd AR_RAG
+   git clone https://github.com/MohamedSameh410/AI-driven-furniture-recommendation.git
+   cd AI-driven-furniture-recommendation
    ```
 
 2. Create and activate a virtual environment:
@@ -125,26 +122,21 @@ Ensure you have the following installed:
    uvicorn main:app --host 0.0.0.0 --port 8000
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Roadmap
+## Progress
 - [x] Scrape IKEA data
 - [x] Implement image captioning with Florence-2-large
 - [x] Convert images to 3D models with TRELLIS
 - [x] Integrate embedding search using Pinecone
 - [x] Develop AI agents with CrewAI
+- [x] Recommend an item from an image.
 - [x] Deploy backend on Azure
 - [x] Develop Kotlin mobile app
-- [ ] Implement Vision RAG for image recommendations
 - [ ] Improve chatbot responses with fine-tuned Gemini LLM
 - [ ] Add multilingual support
   - [ ] Arabic
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
-* Saad Mohamed - [GitHub](https://github.com/MrSa3dola) - saad.2002.ms@gmail.com
-* Yara Mohamed - [GitHub](https://github.com/yara-mohamed1942001) - yaramo656@gmail.com
+* Mohammed Sameh - [GitHub](https://github.com/MohamedSameh410) - mohamedsameh0410@gmail.com
 
-[Project Link](https://github.com/MrSa3dola/AR_RAG)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Project Link](https://github.com/MohamedSameh410/AI-driven-furniture-recommendation)
