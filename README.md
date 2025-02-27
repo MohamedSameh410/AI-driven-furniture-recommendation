@@ -136,7 +136,5 @@ Ensure you have the following installed:
 - [ ] Add multilingual support
   - [ ] Arabic
 
-## Contact
-* Mohammed Sameh - [GitHub](https://github.com/MohamedSameh410) - mohamedsameh0410@gmail.com
 
 [Project Link](https://github.com/MohamedSameh410/AI-driven-furniture-recommendation)
